@@ -1,0 +1,68 @@
+/* body{
+    background-image: url('./assets/log.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+
+
+.d1{
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: rgb(245, 237, 237);
+    padding: 20px;
+    height: 350px;
+    width: 400px;
+}
+
+
+.h1{
+
+    color: blueviolet;
+    text-align: center;
+
+}
+.d2{
+    
+    height: 60px;
+    background-color: white;
+    padding: 2px;
+}
+
+.d3{
+    
+    height: 60px;
+    background-color: white;
+    padding: 2px;
+}
+.d2 label{
+    margin-left: 28px;
+    color: black;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.d2 input{
+
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 250px;
+}
+.d3 label{
+    color: black;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.d3 input{
+    margin-left: 7px;
+    width: 250px;
+    margin-top: 5px;
+}
+
+button{
+    margin-top: 20px;
+    margin-right: 25px;
+    margin-left: 15px;
+    background-color: darksalmon;
+} */

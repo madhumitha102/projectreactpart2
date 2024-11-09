@@ -1,0 +1,109 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+/* h1{
+  margin: 0px;
+  color:blue
+}
+h3{
+  color: rgb(255, 0, 0);
+} */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(173, 92, 137);
+  
+}
+
+.box1 {
+  background-color: white;
+  margin-top: 30px;
+  background-size: 100%;
+  border: 2px solid;
+  margin-left: 400px;
+  text-align: center;
+  height: 600px;
+  width: 600px;
+
+}
+
+.box1 h1 {
+
+  color: brown;
+  margin-top: 25px;
+
+}
+
+.box1 h3 {
+  color: crimson;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+button {
+  margin-left: 15px;
+  background-color: aqua;
+}
+
+.fic {
+  
+  color: rgb(73, 3, 3);
+  margin-top: 16px;
+  padding: 0px;
+  margin-right: 100px;
+}
+
+.fic input {
+
+  padding: 5px;
+  width: 7%;
+  margin-right: 2px;
+
+}
+
+
+.fic h6 {
+  display: inline;
+  padding: 5px;
+  cursor: pointer
+}
