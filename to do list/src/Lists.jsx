@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-// import './App.css'
+import './App.css'
 import { BiSolidEdit } from "react-icons/bi";
 import { MdDelete } from "react-icons/md";
 
